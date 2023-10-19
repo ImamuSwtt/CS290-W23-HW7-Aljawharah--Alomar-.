@@ -1,1 +1,1 @@
-feature1 with bug fix feature2
+Merge branch 'feature2'
