@@ -1,1 +1,1 @@
-Merge branch "feature1".
+Merge branch "feature1"
