@@ -1,1 +1,1 @@
-feature1 with bug fix
+fix feature1 bug
